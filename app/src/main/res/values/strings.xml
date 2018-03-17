@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UdacityMovieApp</string>
+
+    <!-- Preference Keys -->
+    <string name="preference_key_include_adult" translatable="false">pref_include_adult</string>
+    <!-- Preference Keys -->
+
+    <!-- Preference Values -->
+    <string name="preference_value_include_adult">Include adult</string>
+    <string name="preference_value_adult_toggle">Toggle the inclusion of adult movies.</string>
+    <!-- Preference Values -->
+</resources>
