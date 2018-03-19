@@ -7,7 +7,7 @@ package udacity.udacitymovieapp.utils;
 public final class ImageUtils {
 
     private static final String BASE_URL = "http://image.tmdb.org/t/p";
-    
+
     /**
      * A note on resolving poster paths with themoviedb.org API
      *
@@ -44,7 +44,7 @@ public final class ImageUtils {
         String widthPath;
 
         if (width <= 92) widthPath = "/w92";
-        else if (width <= 154) widthPath = "w154";
+        else if (width <= 154) widthPath = "/w154";
         else if (width <= 185) widthPath = "/w185";
         else if (width <= 342) widthPath = "/w342";
         else if (width <= 500) widthPath = "/w500";
