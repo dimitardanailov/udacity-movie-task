@@ -9,4 +9,25 @@
     <string name="preference_value_include_adult">Include adult</string>
     <string name="preference_value_adult_toggle">Toggle the inclusion of adult movies.</string>
     <!-- Preference Values -->
+
+    <!-- JSON Keys -->
+
+    <!-- Prefix: MOVIE_KEY -->
+    <string name="MOVIE_KEY_ID">id</string>
+    <string name="MOVIE_KEY_VOTE_COUNT">vote_count</string>
+    <string name="MOVIE_KEY_VIDEO">video</string>
+    <string name="MOVIE_KEY_VOTE_AVERAGE">6.2</string>
+    <string name="MOVIE_KEY_TITLE">title</string>
+    <string name="MOVIE_KEY_POPULARITY">popularity</string>
+    <string name="MOVIE_KEY_POSTER_PATH">poster_path</string>
+    <string name="MOVIE_KEY_ORIGINAL_LANGUAGE">original_language</string>
+    <string name="MOVIE_KEY_ORIGINAL_TITLE">original_title</string>
+    <string name="MOVIE_KEY_GENRE_IDS">genre_ids</string>
+    <string name="MOVIE_KEY_BACKDROP_PATH">backdrop_path</string>
+    <string name="MOVIE_KEY_ADULT">adult</string>
+    <string name="MOVIE_KEY_OVERVIEW">adult</string>
+    <string name="MOVIE_KEY_RELEASE_DATE">release_date</string>
+    <!-- JSON Keys -->
+
+
 </resources>
